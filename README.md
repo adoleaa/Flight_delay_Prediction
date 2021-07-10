@@ -1,2 +1,2 @@
 # Flight delay Prediction
-Flight delay Prediction Project using decision tree and random forest.
+Flight delay Prediction Project applying decision tree and random forest
